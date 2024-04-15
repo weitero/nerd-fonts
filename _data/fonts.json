@@ -2,8 +2,9 @@
   "fonts": [
     {
       "unpatchedName": "0xProto",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.602",
+      "version": "1.603",
       "patchedName": "0xProto",
       "folderName": "0xProto",
       "imagePreviewFont": "0xProto Nerd Font",
@@ -15,6 +16,7 @@
     },
     {
       "unpatchedName": "IBM 3270",
+      "licenseId": "BSD-3-Clause",
       "RFN": false,
       "version": "3.0.1",
       "patchedName": "3270",
@@ -28,6 +30,7 @@
     },
     {
       "unpatchedName": "Agave",
+      "licenseId": "MIT",
       "RFN": false,
       "version": "37",
       "patchedName": "Agave",
@@ -41,6 +44,7 @@
     },
     {
       "unpatchedName": "Anonymous Pro",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "1.002",
       "patchedName": "AnonymicePro",
@@ -54,6 +58,7 @@
     },
     {
       "unpatchedName": "Arimo",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "1.33",
       "patchedName": "Arimo",
@@ -67,6 +72,7 @@
     },
     {
       "unpatchedName": "Aurulent Sans Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "-",
       "patchedName": "AurulentSansM",
@@ -80,6 +86,7 @@
     },
     {
       "unpatchedName": "BigBlue Terminal",
+      "licenseId": "CC-BY-SA-4.0",
       "RFN": false,
       "version": "-",
       "patchedName": "BigBlueTerm",
@@ -93,6 +100,7 @@
     },
     {
       "unpatchedName": "Bitstream Vera Sans Mono",
+      "licenseId": "Bitstream-Vera",
       "RFN": true,
       "version": "1.1",
       "patchedName": "BitstromWera",
@@ -106,8 +114,9 @@
     },
     {
       "unpatchedName": "IBM Plex Mono",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
-      "version": "2.3",
+      "version": "2.004 (6.4.0)",
       "patchedName": "BlexMono",
       "folderName": "IBMPlexMono",
       "imagePreviewFont": "BlexMono Nerd Font",
@@ -119,6 +128,7 @@
     },
     {
       "unpatchedName": "Cascadia Code",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "2111.01",
       "patchedName": "CaskaydiaCove",
@@ -132,6 +142,7 @@
     },
     {
       "unpatchedName": "Cascadia Mono",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "2111.01",
       "patchedName": "CaskaydiaMono",
@@ -145,6 +156,7 @@
     },
     {
       "unpatchedName": "Code New Roman",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "2.0",
       "patchedName": "CodeNewRoman",
@@ -158,6 +170,7 @@
     },
     {
       "unpatchedName": "Comic Shanns Mono",
+      "licenseId": "MIT",
       "RFN": false,
       "version": "1.3.1",
       "patchedName": "ComicShannsMono",
@@ -171,8 +184,9 @@
     },
     {
       "unpatchedName": "Commit Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.141",
+      "version": "1.143",
       "patchedName": "CommitMono",
       "folderName": "CommitMono",
       "imagePreviewFont": "CommitMono Nerd Font",
@@ -184,6 +198,7 @@
     },
     {
       "unpatchedName": "Cousine",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "1.211",
       "patchedName": "Cousine",
@@ -197,6 +212,7 @@
     },
     {
       "unpatchedName": "D2Coding",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.3.2",
       "patchedName": "D2CodingLigature",
@@ -210,6 +226,7 @@
     },
     {
       "unpatchedName": "DaddyTimeMono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.2.3",
       "patchedName": "DaddyTimeMono",
@@ -223,6 +240,7 @@
     },
     {
       "unpatchedName": "DejaVu Sans Mono",
+      "licenseId": "Bitstream-Vera",
       "RFN": false,
       "version": "2.37",
       "patchedName": "DejaVuSansM",
@@ -236,6 +254,7 @@
     },
     {
       "unpatchedName": "Droid Sans Mono",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "1.00-113",
       "patchedName": "DroidSansM",
@@ -249,6 +268,7 @@
     },
     {
       "unpatchedName": "Envy Code R",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "0.79",
       "patchedName": "EnvyCodeR",
@@ -262,6 +282,7 @@
     },
     {
       "unpatchedName": "Fantasque Sans Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.8.0",
       "patchedName": "FantasqueSansM",
@@ -275,6 +296,7 @@
     },
     {
       "unpatchedName": "Fira Code",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "6.2",
       "patchedName": "FiraCode",
@@ -288,6 +310,7 @@
     },
     {
       "unpatchedName": "Fira",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "3.206",
       "patchedName": "FiraMono",
@@ -301,12 +324,13 @@
     },
     {
       "unpatchedName": "Geist Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.0.1",
+      "version": "1.2.0 (1.3.0)",
       "patchedName": "GeistMono",
       "folderName": "GeistMono",
       "imagePreviewFont": "GeistMono NF",
-      "imagePreviewFontSource": "GeistMono/Regular/GeistMono-Regular.otf",
+      "imagePreviewFontSource": "GeistMono/GeistMono-Regular.otf",
       "linkPreviewFont": "geist",
       "caskName": "geist-mono",
       "repoRelease": false,
@@ -314,6 +338,7 @@
     },
     {
       "unpatchedName": "Go Mono",
+      "licenseId": "BSD-3-Clause-Clear",
       "RFN": false,
       "version": "2.010",
       "patchedName": "GoMono",
@@ -327,6 +352,7 @@
     },
     {
       "unpatchedName": "Gohu",
+      "licenseId": "WTFPL",
       "RFN": false,
       "version": "2.0",
       "patchedName": "GohuFont",
@@ -340,6 +366,7 @@
     },
     {
       "unpatchedName": "Hack",
+      "licenseId": "Bitstream-Vera AND MIT",
       "RFN": false,
       "version": "3.003",
       "patchedName": "Hack",
@@ -353,6 +380,7 @@
     },
     {
       "unpatchedName": "Hasklig",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "1.2",
       "patchedName": "Hasklug",
@@ -366,6 +394,7 @@
     },
     {
       "unpatchedName": "Heavy Data",
+      "licenseId": "LicenseRef-VicFieger",
       "RFN": false,
       "version": "1",
       "patchedName": "HeavyData",
@@ -379,6 +408,7 @@
     },
     {
       "unpatchedName": "Hermit",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "2.0",
       "patchedName": "Hurmit",
@@ -392,6 +422,7 @@
     },
     {
       "unpatchedName": "iA Writer",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "Dec 2018",
       "patchedName": "iMWriting",
@@ -405,6 +436,7 @@
     },
     {
       "unpatchedName": "Inconsolata",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "3.000",
       "patchedName": "Inconsolata",
@@ -418,6 +450,7 @@
     },
     {
       "unpatchedName": "InconsolataGo",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.013",
       "patchedName": "InconsolataGo",
@@ -431,12 +464,13 @@
     },
     {
       "unpatchedName": "Inconsolata LGC",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.3",
+      "version": "1.5.2",
       "patchedName": "Inconsolata LGC",
       "folderName": "InconsolataLGC",
       "imagePreviewFont": "Inconsolata LGC Nerd Font",
-      "imagePreviewFontSource": "InconsolataLGC/Regular/Inconsolata-LGC.ttf",
+      "imagePreviewFontSource": "InconsolataLGC/Inconsolata-LGC.ttf",
       "linkPreviewFont": false,
       "caskName": "inconsolata-lgc",
       "repoRelease": true,
@@ -444,12 +478,13 @@
     },
     {
       "unpatchedName": "Intel One Mono",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
-      "version": "1.2.1",
+      "version": "1.3.0",
       "patchedName": "IntoneMono",
       "folderName": "IntelOneMono",
       "imagePreviewFont": "IntoneMono Nerd Font",
-      "imagePreviewFontSource": "IntelOneMono/Regular/intelone-mono-font-family-regular.ttf",
+      "imagePreviewFontSource": "IntelOneMono/IntelOneMono-Regular.ttf",
       "linkPreviewFont": "intel-one-mono",
       "caskName": "intone-mono",
       "repoRelease": false,
@@ -457,12 +492,13 @@
     },
     {
       "unpatchedName": "Iosevka",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "22.1.0",
+      "version": "29.0.4",
       "patchedName": "Iosevka",
       "folderName": "Iosevka",
       "imagePreviewFont": "Iosevka Nerd Font",
-      "imagePreviewFontSource": "Iosevka/Regular/iosevka-regular.ttf",
+      "imagePreviewFontSource": "Iosevka/Iosevka-Regular.ttf",
       "linkPreviewFont": "iosevka",
       "caskName": "iosevka",
       "repoRelease": true,
@@ -470,12 +506,13 @@
     },
     {
       "unpatchedName": "Iosevka Term",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "22.1.0",
+      "version": "29.0.4",
       "patchedName": "IosevkaTerm",
       "folderName": "IosevkaTerm",
       "imagePreviewFont": "IosevkaTerm Nerd Font",
-      "imagePreviewFontSource": "IosevkaTerm/Regular/iosevka-term-regular.ttf",
+      "imagePreviewFontSource": "IosevkaTerm/IosevkaTerm-Regular.ttf",
       "linkPreviewFont": false,
       "caskName": "iosevka-term",
       "repoRelease": true,
@@ -483,12 +520,13 @@
     },
     {
       "unpatchedName": "Iosevka Term Slab",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "22.1.1",
+      "version": "29.0.4",
       "patchedName": "IosevkaTermSlab",
       "folderName": "IosevkaTermSlab",
       "imagePreviewFont": "IosevkaTermSlab NF",
-      "imagePreviewFontSource": "IosevkaTermSlab/iosevka-term-slab-regular.ttf",
+      "imagePreviewFontSource": "IosevkaTermSlab/IosevkaTermSlab-Regular.ttf",
       "linkPreviewFont": false,
       "caskName": "iosevka-term-slab",
       "repoRelease": false,
@@ -496,6 +534,7 @@
     },
     {
       "unpatchedName": "JetBrains Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "2.304",
       "patchedName": "JetBrainsMono",
@@ -509,6 +548,7 @@
     },
     {
       "unpatchedName": "Lekton",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "34",
       "patchedName": "Lekton",
@@ -522,6 +562,7 @@
     },
     {
       "unpatchedName": "Liberation Mono",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "2.1.5",
       "patchedName": "LiterationMono",
@@ -535,8 +576,9 @@
     },
     {
       "unpatchedName": "Lilex",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "2.300",
+      "version": "2.400",
       "patchedName": "Lilex",
       "folderName": "Lilex",
       "imagePreviewFont": "Lilex Nerd Font",
@@ -548,6 +590,7 @@
     },
     {
       "unpatchedName": "MartianMono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.0.0",
       "patchedName": "MartianMono",
@@ -561,6 +604,7 @@
     },
     {
       "unpatchedName": "Meslo LG",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "1.21",
       "patchedName": "MesloLG",
@@ -574,6 +618,7 @@
     },
     {
       "unpatchedName": "Monaspace",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "1.0.0",
       "patchedName": "Monaspice",
@@ -587,6 +632,7 @@
     },
     {
       "unpatchedName": "Monofur",
+      "licenseId": "LicenseRef-Monofur",
       "RFN": false,
       "version": "1.0",
       "patchedName": "Monofur",
@@ -600,6 +646,7 @@
     },
     {
       "unpatchedName": "Monoid",
+      "licenseId": "MIT OR OFL-1.1-no-RFN",
       "RFN": false,
       "version": "0.61",
       "patchedName": "Monoid",
@@ -613,6 +660,7 @@
     },
     {
       "unpatchedName": "Mononoki",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "1.6",
       "patchedName": "Mononoki",
@@ -626,6 +674,7 @@
     },
     {
       "unpatchedName": "MPlus",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "2023/09",
       "patchedName": "M+",
@@ -639,6 +688,7 @@
     },
     {
       "unpatchedName": "Noto",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "div",
       "patchedName": "Noto",
@@ -652,6 +702,7 @@
     },
     {
       "unpatchedName": "OpenDyslexic",
+      "licenseId": "Bitstream-Vera",
       "RFN": false,
       "version": "2.001",
       "patchedName": "OpenDyslexic",
@@ -665,6 +716,7 @@
     },
     {
       "unpatchedName": "Overpass",
+      "licenseId": "OFL-1.1-no-RFN or LGPL-2.1-only",
       "RFN": false,
       "version": "3.0.5",
       "patchedName": "Overpass",
@@ -678,6 +730,7 @@
     },
     {
       "unpatchedName": "ProFont",
+      "licenseId": "MIT",
       "RFN": false,
       "version": "2.3/2.2",
       "patchedName": "ProFont",
@@ -691,6 +744,7 @@
     },
     {
       "unpatchedName": "ProggyCleanTT",
+      "licenseId": "MIT",
       "RFN": false,
       "version": "2004/04/15",
       "patchedName": "ProggyClean",
@@ -703,7 +757,22 @@
       "description": "Designed particularly for use at small point sizes"
     },
     {
+      "unpatchedName": "Recursive Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "1.085",
+      "patchedName": "RecMono",
+      "folderName": "Recursive",
+      "imagePreviewFont": "RecMonoSmCasual Nerd Font",
+      "imagePreviewFontSource": "Recursive/RecMonoSemicasual/RecMonoSemicasual-Regular-1.085.ttf",
+      "linkPreviewFont": "recursive-mono-linear",
+      "caskName": "recursive-mono",
+      "repoRelease": false,
+      "description": "inspired by casual script signpainting, 4 variants"
+    },
+    {
       "unpatchedName": "Roboto Mono",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "3.0",
       "patchedName": "RobotoMono",
@@ -717,6 +786,7 @@
     },
     {
       "unpatchedName": "Share Tech Mono",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "1.003",
       "patchedName": "ShureTechMono",
@@ -730,6 +800,7 @@
     },
     {
       "unpatchedName": "Source Code Pro",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "2.042",
       "patchedName": "SauceCodePro",
@@ -743,6 +814,7 @@
     },
     {
       "unpatchedName": "Space Mono",
+      "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
       "version": "1.001",
       "patchedName": "SpaceMono",
@@ -756,6 +828,7 @@
     },
     {
       "unpatchedName": "Symbols Only",
+      "licenseId": "MIT",
       "RFN": false,
       "version": "latest",
       "patchedName": "Symbols",
@@ -769,12 +842,13 @@
     },
     {
       "unpatchedName": "Terminus",
+      "licenseId": "OFL-1.1-RFN",
       "RFN": true,
       "version": "4.49.2",
       "patchedName": "Terminess",
       "folderName": "Terminus",
       "imagePreviewFont": "Terminess Nerd Font",
-      "imagePreviewFontSource": "Terminus/Regular/TerminusTTF-4.49.2.ttf",
+      "imagePreviewFontSource": "Terminus/TerminusTTF-4.49.3.ttf",
       "linkPreviewFont": "terminus",
       "caskName": "terminess-ttf",
       "repoRelease": true,
@@ -782,6 +856,7 @@
     },
     {
       "unpatchedName": "Tinos",
+      "licenseId": "Apache-2.0",
       "RFN": false,
       "version": "1.23",
       "patchedName": "Tinos",
@@ -795,6 +870,7 @@
     },
     {
       "unpatchedName": "Ubuntu",
+      "licenseId": "LicenseRef-UbuntuFont",
       "RFN": false,
       "version": "0.83",
       "patchedName": "Ubuntu",
@@ -808,6 +884,7 @@
     },
     {
       "unpatchedName": "Ubuntu Mono",
+      "licenseId": "LicenseRef-UbuntuFont",
       "RFN": false,
       "version": "0.80",
       "patchedName": "UbuntuMono",
@@ -820,9 +897,24 @@
       "description": "Dotted zeros, used the `n`, `o`, `H` &amp; `O` Latin characters as a base for design"
     },
     {
-      "unpatchedName": "Victor Mono",
+      "unpatchedName": "Ubuntu Sans",
+      "licenseId": "LicenseRef-UbuntuFont",
       "RFN": false,
-      "version": "1.5.4",
+      "version": "1.004",
+      "patchedName": "UbuntuSans",
+      "folderName": "UbuntuSans",
+      "imagePreviewFont": "UbuntuSansMono NF",
+      "imagePreviewFontSource": "UbuntuSans/Mono/UbuntuSansMono-Regular.ttf",
+      "linkPreviewFont": false,
+      "caskName": "ubuntu-sans",
+      "repoRelease": false,
+      "description": "Refreshed version of Ubuntu and Ubuntu Mono fonts"
+    },
+    {
+      "unpatchedName": "Victor Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "1.5.6",
       "patchedName": "VictorMono",
       "folderName": "VictorMono",
       "imagePreviewFont": "VictorMono Nerd Font",
@@ -831,6 +923,20 @@
       "caskName": "victor-mono",
       "repoRelease": true,
       "description": "Clean, crisp and narrow, with a large x-height and clear punctuation"
+    },
+    {
+      "unpatchedName": "Zed Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "1.2.0",
+      "patchedName": "ZedMono",
+      "folderName": "ZedMono",
+      "imagePreviewFont": "ZedMono NF",
+      "imagePreviewFontSource": "ZedMono/Normal/zed-mono-regular.ttf",
+      "linkPreviewFont": false,
+      "caskName": "zed-mono",
+      "repoRelease": false,
+      "description": "Zed Mono is a more rounded version of Iosevka"
     }
   ]
 }
